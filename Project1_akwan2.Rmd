@@ -1,7 +1,6 @@
 ---
 title: "Project 1:  Wine Review and Recommendation"
-author: "Alex Kwan, NETID = akwan2"
-date: "11/25/2019"
+author: "Alex Kwan"
 output: html_document
 ---
 
